@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(226, 92, 92, 0.181)!important;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.wrapper{
+    width: 350px;
+}
+form{
+    background-color: rgb(65, 216, 186);
+    border: 2px solid #198754;
+    border-radius: 15px;
+    padding: 20px 10px;
+}
+#name,#phone{
+    width: 70%;
+    float: left;
+    margin: 7px;
+    border-radius: 5px;
+    margin-left: 50px;
+}
+.btn{
+    margin: 7px;
+    margin-left: 27%;
+}
+h1{
+    color: #198754;
+    text-align: center;
+}
+.title{
+    position: absolute;
+    top: 50px;
+}
+.table{
+    margin-top: 10%;
+    margin-left: 50px;
+    width: 70%!important;
+}
+.btn-danger{
+    margin-left: 20px;
+}
+
